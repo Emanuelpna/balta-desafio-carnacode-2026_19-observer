@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarnaCodeObserver", "CarnaCodeObserver\CarnaCodeObserver.csproj", "{5D167E44-9256-458C-8621-8EFDFBF9C8FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarnaCodeObserver.Tests", "CarnaCodeObserver.Tests\CarnaCodeObserver.Tests.csproj", "{929A5E06-2FC6-4438-9D44-C9D208421A83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D167E44-9256-458C-8621-8EFDFBF9C8FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D167E44-9256-458C-8621-8EFDFBF9C8FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D167E44-9256-458C-8621-8EFDFBF9C8FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D167E44-9256-458C-8621-8EFDFBF9C8FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{929A5E06-2FC6-4438-9D44-C9D208421A83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{929A5E06-2FC6-4438-9D44-C9D208421A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{929A5E06-2FC6-4438-9D44-C9D208421A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{929A5E06-2FC6-4438-9D44-C9D208421A83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
